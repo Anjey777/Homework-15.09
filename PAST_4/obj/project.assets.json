@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Андрей\\Desktop\\УЧЕБА\\УчебаGIT\\homework3\\PAST_2\\PAST_2.csproj",
+      "projectUniqueName": "C:\\Users\\Андрей\\Desktop\\УЧЕБА\\УчебаGIT\\homework3\\PAST_4\\PAST_2.csproj",
       "projectName": "PAST_2",
-      "projectPath": "C:\\Users\\Андрей\\Desktop\\УЧЕБА\\УчебаGIT\\homework3\\PAST_2\\PAST_2.csproj",
+      "projectPath": "C:\\Users\\Андрей\\Desktop\\УЧЕБА\\УчебаGIT\\homework3\\PAST_4\\PAST_2.csproj",
       "packagesPath": "C:\\Users\\Андрей\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Андрей\\Desktop\\УЧЕБА\\УчебаGIT\\homework3\\PAST_2\\obj\\",
+      "outputPath": "C:\\Users\\Андрей\\Desktop\\УЧЕБА\\УчебаGIT\\homework3\\PAST_4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Андрей\\AppData\\Roaming\\NuGet\\NuGet.Config"

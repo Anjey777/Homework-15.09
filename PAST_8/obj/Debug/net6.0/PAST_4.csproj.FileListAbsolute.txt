@@ -1,0 +1,15 @@
+C:\Users\Андрей\Desktop\УЧЕБА\УчебаGIT\homework3\PAST_8\obj\Debug\net6.0\PAST_4.csproj.AssemblyReference.cache
+C:\Users\Андрей\Desktop\УЧЕБА\УчебаGIT\homework3\PAST_8\obj\Debug\net6.0\PAST_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\Desktop\УЧЕБА\УчебаGIT\homework3\PAST_8\obj\Debug\net6.0\PAST_4.AssemblyInfoInputs.cache
+C:\Users\Андрей\Desktop\УЧЕБА\УчебаGIT\homework3\PAST_8\obj\Debug\net6.0\PAST_4.AssemblyInfo.cs
+C:\Users\Андрей\Desktop\УЧЕБА\УчебаGIT\homework3\PAST_8\obj\Debug\net6.0\PAST_4.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\УЧЕБА\УчебаGIT\homework3\PAST_8\bin\Debug\net6.0\PAST_4.exe
+C:\Users\Андрей\Desktop\УЧЕБА\УчебаGIT\homework3\PAST_8\bin\Debug\net6.0\PAST_4.deps.json
+C:\Users\Андрей\Desktop\УЧЕБА\УчебаGIT\homework3\PAST_8\bin\Debug\net6.0\PAST_4.runtimeconfig.json
+C:\Users\Андрей\Desktop\УЧЕБА\УчебаGIT\homework3\PAST_8\bin\Debug\net6.0\PAST_4.dll
+C:\Users\Андрей\Desktop\УЧЕБА\УчебаGIT\homework3\PAST_8\bin\Debug\net6.0\PAST_4.pdb
+C:\Users\Андрей\Desktop\УЧЕБА\УчебаGIT\homework3\PAST_8\obj\Debug\net6.0\PAST_4.dll
+C:\Users\Андрей\Desktop\УЧЕБА\УчебаGIT\homework3\PAST_8\obj\Debug\net6.0\refint\PAST_4.dll
+C:\Users\Андрей\Desktop\УЧЕБА\УчебаGIT\homework3\PAST_8\obj\Debug\net6.0\PAST_4.pdb
+C:\Users\Андрей\Desktop\УЧЕБА\УчебаGIT\homework3\PAST_8\obj\Debug\net6.0\PAST_4.genruntimeconfig.cache
+C:\Users\Андрей\Desktop\УЧЕБА\УчебаGIT\homework3\PAST_8\obj\Debug\net6.0\ref\PAST_4.dll

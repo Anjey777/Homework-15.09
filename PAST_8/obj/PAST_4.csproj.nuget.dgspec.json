@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Андрей\\Desktop\\УЧЕБА\\УчебаGIT\\homework3\\PAST_4\\PAST_4.csproj": {}
+    "C:\\Users\\Андрей\\Desktop\\УЧЕБА\\УчебаGIT\\homework3\\PAST_8\\PAST_4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Андрей\\Desktop\\УЧЕБА\\УчебаGIT\\homework3\\PAST_4\\PAST_4.csproj": {
+    "C:\\Users\\Андрей\\Desktop\\УЧЕБА\\УчебаGIT\\homework3\\PAST_8\\PAST_4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Андрей\\Desktop\\УЧЕБА\\УчебаGIT\\homework3\\PAST_4\\PAST_4.csproj",
+        "projectUniqueName": "C:\\Users\\Андрей\\Desktop\\УЧЕБА\\УчебаGIT\\homework3\\PAST_8\\PAST_4.csproj",
         "projectName": "PAST_4",
-        "projectPath": "C:\\Users\\Андрей\\Desktop\\УЧЕБА\\УчебаGIT\\homework3\\PAST_4\\PAST_4.csproj",
+        "projectPath": "C:\\Users\\Андрей\\Desktop\\УЧЕБА\\УчебаGIT\\homework3\\PAST_8\\PAST_4.csproj",
         "packagesPath": "C:\\Users\\Андрей\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Андрей\\Desktop\\УЧЕБА\\УчебаGIT\\homework3\\PAST_4\\obj\\",
+        "outputPath": "C:\\Users\\Андрей\\Desktop\\УЧЕБА\\УчебаGIT\\homework3\\PAST_8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Андрей\\AppData\\Roaming\\NuGet\\NuGet.Config"
